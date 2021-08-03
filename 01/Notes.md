@@ -5,8 +5,9 @@
 		- Github, BitBucket, Gitlab etc...
 	- Centralized VCS
 		- TFS, VSTS, SVN
+VCS allows users to work together and keep track of changes in software development.
 # Git
-## Basic Git and commands
+## Basic Git and command
 - `cd 'path'` -> change directory
 - `cd ..` -> moves a level up
 	- use arrow keys to see history of previously use commands
